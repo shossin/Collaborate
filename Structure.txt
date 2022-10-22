@@ -1,1 +1,7 @@
 This is the study structure document.
+3 branches need to be created.
+1. Dev
+2. Test
+3. Prod
+
+The project has 3 data collaborations.
